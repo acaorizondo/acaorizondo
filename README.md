@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 ### Hi there 👋
 
 class SoftwareEngineer:
