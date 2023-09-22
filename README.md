@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 class SoftwareEngineer:
     def __init__(self):
         self.name            = "Arturo Cesar Arias Orizondo"
