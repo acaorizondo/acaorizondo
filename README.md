@@ -48,8 +48,3 @@ class SoftwareEngineer:
            "Scholar"   : https://scholar.google.com.cu/citations?hl=en&pli=1&user=-j6k6RMAAAAJ,
         }
         
-
-## 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaorizondo)](https://github.com/acaorizondo/github-readme-stats)
-
-
