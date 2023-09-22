@@ -24,6 +24,11 @@ class SoftwareEngineer:
             "📊 Visualizations": ["Tableau", "Power BI", "IBM Cognos Analytics"],
             "📈 Spreadsheets"  : ["Excel", "Google Sheets"],
             "🔍 Analysis"      : ["R", "KNIME Analytics"],
+            "👉 Examples"      : [
+                                   {"Name"      : "Palmer Penguins Analysis",
+                                    "Technology": "R",
+                                    "Source"    : https://www.kaggle.com/code/arturoarias/palmer-penguins-analysis},
+                                 ]
         }
 
         self.other_knowledge = {
