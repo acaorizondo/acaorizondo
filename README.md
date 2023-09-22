@@ -1,4 +1,4 @@
-```python
+
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
@@ -19,7 +19,7 @@ class SoftwareEngineer:
             "📝 Methodologies" : ["Agile", "SCRUM", "Kanban"],
             "🖇 Modeling"       : ["OO", "Relational", Multi-dimensional],
         }
-```
+
 
         self.analysis_stack = {
             "📊 Visualizations": ["Tableau", "Power BI", "IBM Cognos Analytics"],
@@ -51,7 +51,6 @@ class SoftwareEngineer:
         }
 
 ## 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaorizondo)](https://github.com/acaorizondo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaorizondo)](https://github.com/acaorizondo/github-readme-stats)
 
 
