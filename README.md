@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 ### Hi there 👋
-
+```
 class SoftwareEngineer:
     def __init__(self):
         self.name            = "Arturo Cesar Arias Orizondo"
@@ -47,9 +47,9 @@ class SoftwareEngineer:
            "ORCID"     : https://orcid.org/0000-0002-6756-0518,
            "Scholar"   : https://scholar.google.com.cu/citations?hl=en&pli=1&user=-j6k6RMAAAAJ,
         }
-
+```
 ## 📈 GitHub Stats
-```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaorizondo)](https://github.com/acaorizondo/github-readme-stats)
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acaorizondo)](https://github.com/acaorizondo/github-readme-stats)
+
 
