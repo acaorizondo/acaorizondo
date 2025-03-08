@@ -6,7 +6,7 @@
 class SoftwareDeveloper:
     def __init__(self):
         self.name            = "Arturo Cesar Arias Orizondo"
-        self.main_profession = "Software Engineer"
+        self.main_profession = "Software Developer"
         self.education       = "Bachelor of Science in Information Technology. CUJAE, Havana, Cuba. 1998 - 2003"
         self.main_stack      = "Database & Backend Developer"
         
