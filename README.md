@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-class SoftwareEngineer:
+class SoftwareDeveloper:
     def __init__(self):
         self.name            = "Arturo Cesar Arias Orizondo"
         self.main_profession = "Software Engineer"
