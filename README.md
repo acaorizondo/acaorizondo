@@ -43,7 +43,6 @@ class SoftwareDeveloper:
         self.tech_links = {
            "LinkedIn"  : https://www.linkedin.com/in/arturo-arias-orizondo/,
            "Coursera"  : https://www.coursera.org/user/3c24b4966b76d72778133e9a15786788,
-           "HackerRank": https://www.hackerrank.com/acaorizondo,
-           "ORCID"     : https://orcid.org/0000-0002-6756-0518
+           "HackerRank": https://www.hackerrank.com/acaorizondo
         }
         
